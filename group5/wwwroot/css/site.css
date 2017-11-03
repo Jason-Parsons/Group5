@@ -48,3 +48,39 @@ textarea {
         display: none;
     }
 }
+
+#largebox{
+    width:1000px;
+    height: 700px;
+    background-color: blue;
+    padding-top:50px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+#descriptionbox{
+    height: 300px;
+    width: 920px;
+    background-color: green;
+    float: left;
+    margin-left:30px;
+    padding-bottom:10px;
+}
+
+#beforebox {
+    height: 300px;
+    width: 450px;
+    background-color: red;
+    float: left;
+    margin-left: 30px;
+    margin-top:10px;
+}
+
+#afterbox {
+    height: 300px;
+    width: 450px;
+    background-color: yellow;
+    float: right;
+    margin-right: 30px;
+    margin-top:10px;
+}
